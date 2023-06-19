@@ -25,3 +25,6 @@ ID de vuelo.
 | :-------- | :------- | :------------------------- |
 | `id` | `int` | **Required**. |    
 
+## URL para correr la aplicacion
+
+localhost:3000/flights/1/passengers
