@@ -4,7 +4,7 @@ https://successful-blazer-bee.cyclic.app/flights/1/passengers
 
 # Proyecto Aeropuerto
 
-Proyecto para la postulacion de Bsale 
+Simulador de Check-in
 
 ## Instalacion de dependencias.
 
